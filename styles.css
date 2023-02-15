@@ -3,3 +3,7 @@
 .userphoto img{
     object-fit: cover;
 }
+
+.userinfo{
+    height: 200px;
+}
